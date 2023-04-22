@@ -19,7 +19,7 @@ public class Otos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hány mezőt játszunk?");
+        System.out.println("Hány mezőt játszunk? He?");
         Scanner  be = new Scanner(System.in);
         int mezoszam = be.nextInt();
         Random rnd = new Random();
